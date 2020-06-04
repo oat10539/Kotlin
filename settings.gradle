@@ -1,2 +1,5 @@
-include ':app'
+include ':AboutMeDataBinding'
+include ':ColorMyViews'
+include ':AboutMe'
+include ':Change icon'
 rootProject.name='kotlintest'
