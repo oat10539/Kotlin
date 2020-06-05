@@ -13,6 +13,8 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/AboutMe" />
             <option value="$PROJECT_DIR$/AboutMeDataBinding" />
+            <option value="$PROJECT_DIR$/AndroidTriviaFragment" />
+            <option value="$PROJECT_DIR$/AndroidTriviaShare" />
             <option value="$PROJECT_DIR$/Change icon" />
             <option value="$PROJECT_DIR$/ColorMyViews" />
           </set>
