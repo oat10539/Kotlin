@@ -1,3 +1,4 @@
+include ':GuessTheWord'
 include ':DessertClicker'
 include ':AndroidTriviaFragment'
 include ':AndroidTriviaShare'
