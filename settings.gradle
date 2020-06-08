@@ -1,3 +1,5 @@
+include ':TrackMySleepQuality'
+include ':TrackMySleepQuality'
 include ':GuessTheWord'
 include ':DessertClicker'
 include ':AndroidTriviaFragment'

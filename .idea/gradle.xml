@@ -19,6 +19,7 @@
             <option value="$PROJECT_DIR$/ColorMyViews" />
             <option value="$PROJECT_DIR$/DessertClicker" />
             <option value="$PROJECT_DIR$/GuessTheWord" />
+            <option value="$PROJECT_DIR$/TrackMySleepQuality" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
