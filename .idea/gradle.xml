@@ -19,7 +19,10 @@
             <option value="$PROJECT_DIR$/ColorMyViews" />
             <option value="$PROJECT_DIR$/DessertClicker" />
             <option value="$PROJECT_DIR$/GuessTheWord" />
+            <option value="$PROJECT_DIR$/RecyclerViewFundamentals" />
             <option value="$PROJECT_DIR$/TrackMySleepQuality" />
+            <option value="$PROJECT_DIR$/TrackMySleepQualityRecycleView" />
+            <option value="$PROJECT_DIR$/rackMySleepQualityRecycleView" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

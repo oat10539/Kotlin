@@ -1,3 +1,6 @@
+include ':RecyclerViewFundamentals'
+include ':TrackMySleepQualityRecycleView'
+include ':rackMySleepQualityRecycleView'
 include ':TrackMySleepQuality'
 include ':TrackMySleepQuality'
 include ':GuessTheWord'
