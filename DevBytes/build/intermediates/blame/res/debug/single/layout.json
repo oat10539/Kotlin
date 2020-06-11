@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Project\\Kotlin\\DevBytes\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dev_byte.xml",
+        "source": "D:\\Project\\Kotlin\\DevBytes\\src\\main\\res\\layout\\fragment_dev_byte.xml"
+    },
+    {
+        "merged": "D:\\Project\\Kotlin\\DevBytes\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\devbyte_item.xml",
+        "source": "D:\\Project\\Kotlin\\DevBytes\\src\\main\\res\\layout\\devbyte_item.xml"
+    }
+]
